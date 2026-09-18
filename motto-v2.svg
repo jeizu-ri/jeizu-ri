@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="48" viewBox="0 0 640 48" role="img" aria-label="I turn passing ideas into working projects.">
+  <title>I turn passing ideas into working projects.</title>
+
+  <text x="4" y="30" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#8b949e">
+    <tspan>
+      I
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.06;0.86;1" dur="7s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan>
+      &#160;turn
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.08;0.14;0.86;1" dur="7s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan>
+      &#160;passing
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.16;0.22;0.86;1" dur="7s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan>
+      &#160;ideas
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.24;0.30;0.86;1" dur="7s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan>
+      &#160;into
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.32;0.38;0.86;1" dur="7s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan fill="#58a6ff">
+      &#160;working projects.
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.42;0.50;0.86;1" dur="7s" repeatCount="indefinite"/>
+    </tspan>
+  </text>
+
+  <line x1="4" y1="40" x2="4" y2="40" stroke="#58a6ff" stroke-width="1.25" stroke-linecap="round">
+    <animate attributeName="x2" values="4;4;428;428;4" keyTimes="0;0.50;0.68;0.86;1" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.50;0.52;0.86;1" dur="7s" repeatCount="indefinite"/>
+  </line>
+</svg>
