@@ -1,16 +1,21 @@
-## Hi there 👋
+# Jeizu
 
-<!--
-**jeizu-ri/jeizu-ri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <img src="motto.svg" alt="I turn passing ideas into working projects." />
+</p>
 
-Here are some ideas to get you started:
+Student developer. I write software consistently and follow ideas through to deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Now:** building and shipping personal projects  
+**Always:** looking for the next problem worth making
+
+---
+
+**Stack**  
+HTML · CSS · JavaScript · Git
+
+**Work**  
+[Testris](https://github.com/jeizu-ri/tetro-flow) — two-player Tetris battle against a bot, from idea to a playable game in the browser.
+
+**Contact**  
+[justinerivera.tech@gmail.com](mailto:justinerivera.tech@gmail.com)
