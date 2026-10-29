@@ -2,7 +2,7 @@
 
 # Justine Rivera
 
-<img src="motto-v2.svg" alt="I turn passing ideas into working projects." />
+<img src="motto-v3.svg" alt="I turn passing ideas into working projects." />
 
 IT student in the Philippines. I build web apps and follow ideas through to deployment.
 
@@ -47,11 +47,17 @@ More on my [repositories](https://github.com/jeizu-ri?tab=repositories) page.
 
 **Data**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![IndexedDB](https://img.shields.io/badge/IndexedDB-555555?style=flat-square)
 
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**AI tools**  
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 
 **Learning:** TypeScript, SQL
 

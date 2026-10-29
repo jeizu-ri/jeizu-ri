@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="120" viewBox="0 0 720 120" role="img" aria-label="I turn passing ideas into working projects.">
+  <title>I turn passing ideas into working projects.</title>
+
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="0.5" stop-color="#a371f7"/>
+      <stop offset="1" stop-color="#f778ba"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#a371f7"/>
+    </linearGradient>
+  </defs>
+
+  <!-- card -->
+  <rect x="1" y="1" width="718" height="118" rx="14" fill="#0d1117" stroke="url(#border)" stroke-width="1.5"/>
+
+  <!-- window dots -->
+  <circle cx="26" cy="24" r="5" fill="#ff5f56"/>
+  <circle cx="44" cy="24" r="5" fill="#ffbd2e"/>
+  <circle cx="62" cy="24" r="5" fill="#27c93f"/>
+  <text x="694" y="28" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#6e7681">~/jeizu</text>
+
+  <!-- motto, revealed word by word -->
+  <text x="360" y="70" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-weight="600" fill="#e6edf3">
+    <tspan>I
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="8s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan>&#160;turn
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.07;0.12;0.9;1" dur="8s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan>&#160;passing
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.14;0.19;0.9;1" dur="8s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan>&#160;ideas
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.21;0.26;0.9;1" dur="8s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan>&#160;into
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.28;0.33;0.9;1" dur="8s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan fill="#58a6ff">&#160;working
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.36;0.42;0.9;1" dur="8s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan fill="#a371f7">&#160;projects.
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.44;0.50;0.9;1" dur="8s" repeatCount="indefinite"/>
+    </tspan>
+  </text>
+
+  <!-- underline sweep -->
+  <rect x="76" y="86" width="568" height="3" rx="1.5" fill="url(#accent)">
+    <animate attributeName="width" values="0;0;568;568;0" keyTimes="0;0.50;0.68;0.9;1" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.50;0.52;0.9;1" dur="8s" repeatCount="indefinite"/>
+  </rect>
+</svg>
