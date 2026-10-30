@@ -14,11 +14,8 @@ IT student in the Philippines. I build web apps and follow ideas through to depl
 
 ## About
 
-I care about software development and cybersecurity. I write code consistently and ship what I build, usually on Vercel.
+I care about software development and cybersecurity. I write code consistently and ship what I build.
 
-- **Now:** building with Next.js, FastAPI, and PostgreSQL, and sharpening TypeScript and SQL
-- **Always:** looking for the next problem worth making
-- **Open to:** internships
 
 ## Projects
 
