@@ -1,6 +1,6 @@
 <div align="center">
 
-# Justine Rivera
+# Justine Lawrence Rivera
 
 <img src="motto-v3.svg" alt="I turn passing ideas into working projects." />
 
@@ -21,14 +21,12 @@ I care about software development and cybersecurity. I write code consistently a
 
 | Project | What it is | Built with | Links |
 | :-- | :-- | :-- | :-- |
+| **BrightSmile** | Website for a dental clinic with three Makati branches: doctors, services and locations. Built with Kaizweeen | TypeScript, Next.js | [Live](https://brightsmile.pro) · [Code](https://github.com/Kaizweeen/BrightSmile) |
 | **handa-ph** | Philippines typhoon and wind signal alerts PWA (unofficial PAGASA mirror) | TypeScript, PWA | [Demo](https://handa-ph-iota.vercel.app) · [Code](https://github.com/jeizu-ri/handa-ph) |
-| **BudgetTracker** | Personal budget tracker | TypeScript | [Demo](https://budgettracker-snowy.vercel.app) · [Code](https://github.com/jeizu-ri/BudgetTracker) |
-| **Daily Intentionality Scheduler** | iPad-first PWA that stacks intention blocks from a start time and exports the day to Calendar. No build step | JavaScript, IndexedDB | [Demo](https://daily-intentionality-scheduler-six.vercel.app) · [Code](https://github.com/jeizu-ri/daily-intentionality-scheduler) |
-| **Testris** | Two-player Tetris battle against a bot, playable in the browser | JavaScript | [Demo](https://tetro-flow.vercel.app) · [Code](https://github.com/jeizu-ri/tetro-flow) |
-| **BrightSmile** | Team project I co-developed with Kaizweeen | TypeScript | [Demo](https://brightsmile.pro) · [Code](https://github.com/Kaizweeen/BrightSmile) |
-| **OrgManager** | Organization management app, co-developed with Kekmw | PHP | [Code](https://github.com/Kekmw/OrgManager) |
+| **BudgetTracker** | Personal budget tracker with a daily spendable amount, weekly view and savings goals | TypeScript, React, Firebase | [Demo](https://budgettracker-snowy.vercel.app) · [Code](https://github.com/jeizu-ri/BudgetTracker) |
+| **OrgManager** | Organization management app. Built with Kekmw | PHP, JavaScript | [Code](https://github.com/Kekmw/OrgManager) |
 
-More on my [repositories](https://github.com/jeizu-ri?tab=repositories) page.
+My [portfolio](https://justine-portfolio-weld.vercel.app) has a WebGL particle hero and more. Smaller projects are on my [repositories](https://github.com/jeizu-ri?tab=repositories) page.
 
 ## Stack
 
